@@ -17,6 +17,7 @@ export default function Buttons() {
           backgroundColor: "#339345",
           border: 0,
           borderRadius: "50%",
+          cursor: "pointer",
         }}
       >
         -
@@ -31,6 +32,7 @@ export default function Buttons() {
           backgroundColor: "#339345",
           border: 0,
           borderRadius: "50%",
+          cursor: "pointer",
         }}
       >
         +
