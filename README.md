@@ -8,7 +8,7 @@
 
 # Começando
 
-Antes de tudo execute o comando para instalar as dependências em cada um dos projetos:
+Antes de tudo entre em cada um dos projetos e execute o comando:
 
 ```bash
 npm install
@@ -16,15 +16,13 @@ npm install
 yarn
 ```
 
-Execute o comando:
+Para rodar o projeto em modo de desenvolvimento, entre em cada um dos projetos e execute o comando:
 
 ```bash
 npm run dev
 # ou
 yarn dev
 ```
-
-Nos três projetos.
 
 ## O que foi usado:
 
