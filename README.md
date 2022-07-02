@@ -1,6 +1,6 @@
 # Projeto "Contador".
 
-![Contador](./shared/img/doc/contador.gif)
+![Contador](./docs/images/contador.gif)
 
 ### O foco desse projeto é apenas exemplificar o compartilhamento de componentes react e estados globais, através do Module Federation.
 
@@ -41,4 +41,4 @@ Nos três projetos.
 
 Um projeto principal, e dois projetos fornecendo componentes.
 
-![Resumo](./shared/img/doc/projeto.png)
+![Resumo](./docs/images/projeto-exemplo.png)
