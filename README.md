@@ -2,7 +2,7 @@
 
 ![Contador](./shared/img/doc/contador.gif)
 
-### O foco desse projeto é apenas exemplificar o compartilamento de componentes react e estados globais, atravez do Module Federation.
+### O foco desse projeto é apenas exemplificar o compartilhamento de componentes react e estados globais, através do Module Federation.
 
 <br />
 
